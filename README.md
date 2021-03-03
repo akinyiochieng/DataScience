@@ -2,10 +2,9 @@
 Default Rate Analysis
 
 I am trying to achieve the following: 
-● Provide a detailed analysis of the data, highlighting any patterns, relationships and
-the evaluation done to assess their presence.
-● Develop, with commentary, a model that predicts the likelihood of defaulting.
-● Provide documentation on the model comparisons
+Provide a detailed analysis of the data, highlighting any patterns, relationships and the evaluation done to assess their presence.
+Develop, with commentary, a model that predicts the likelihood of defaulting.
+Provide documentation on the model comparisons
 
 
 The dataset used:
